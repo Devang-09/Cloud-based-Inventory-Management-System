@@ -19,14 +19,9 @@ A lightweight, cloud-deployable Inventory Management System (IMS) built using **
 
 ## 🛠️ Tech Stack
 
-| Layer     | Technology        |
-|-----------|-------------------|
+| Layer     | Technology            |
+|-----------|-----------------------|
 | Frontend  | Tkinter GUI (desktop) |
-| Backend   | Python (Flask API)|
-| Database  | SQLite            |
-| Deployment| Docker, Railway   |
-
----
-
-## 📂 Folder Structure
-
+| Backend   | Python (Flask API)    |
+| Database  | SQLite                |
+| Deployment| Azure Cloud Services  |
