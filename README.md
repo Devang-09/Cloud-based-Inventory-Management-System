@@ -25,3 +25,12 @@ A lightweight, cloud-deployable Inventory Management System (IMS) built using **
 | Backend   | Python (Flask API)    |
 | Database  | SQLite                |
 | Deployment| Azure Cloud Services  |
+
+---
+
+##📷Images
+
+![Screenshot 2025-03-19 210324](https://github.com/user-attachments/assets/9f07601b-08d0-4ad6-bb9e-c51b73c1a5e8)
+![Screenshot 2025-03-19 203131](https://github.com/user-attachments/assets/c2cf2f83-0c98-489b-b4aa-7c08e20e7d1b)
+
+
