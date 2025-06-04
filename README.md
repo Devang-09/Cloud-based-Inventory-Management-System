@@ -30,7 +30,16 @@ A lightweight, cloud-deployable Inventory Management System (IMS) built using **
 
 ##📷Images
 
-![Screenshot 2025-03-19 210324](https://github.com/user-attachments/assets/9f07601b-08d0-4ad6-bb9e-c51b73c1a5e8)
-![Screenshot 2025-03-19 203131](https://github.com/user-attachments/assets/c2cf2f83-0c98-489b-b4aa-7c08e20e7d1b)
+![image](https://github.com/user-attachments/assets/a42c8718-2cf0-4c92-89d5-0a9389dfc1dc)
+![image](https://github.com/user-attachments/assets/54d13f0d-23c1-4f00-b7d7-f402def8bb4e)
+![image](https://github.com/user-attachments/assets/70839ab7-2503-4c42-a39d-340efb66d24c)
+![image](https://github.com/user-attachments/assets/4e40eb4d-062f-4535-b236-48b4fc4f09fb)
+![image](https://github.com/user-attachments/assets/a56aaabf-0d53-462b-b6cc-63b157074e4e)
+![image](https://github.com/user-attachments/assets/5bf85abe-3170-4414-acfb-a0847773c0bf)
+![image](https://github.com/user-attachments/assets/37957438-da40-4bf0-be01-cf7ebf046702)
+![image](https://github.com/user-attachments/assets/500e5ea0-1899-4494-8c30-b790a73ca0a3)
+![image](https://github.com/user-attachments/assets/d2565829-ad8d-42cf-8983-20a9fa06189a)
+![image](https://github.com/user-attachments/assets/95ac1a00-240e-47e9-9d31-0321588f3db2)
+
 
 
