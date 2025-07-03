@@ -167,7 +167,7 @@ B.Sc. IT – St. Arnold's Degree College, University of Mumbai
 
 ## 📝 License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE.md) for details.
 
 ---
 
