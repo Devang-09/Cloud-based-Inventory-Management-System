@@ -170,3 +170,13 @@ B.Sc. IT – St. Arnold's Degree College, University of Mumbai
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
+
+## ⭐️ Give it a Star!
+
+If you found this project helpful or interesting, consider giving it a ⭐ on GitHub!
+
+---
+
+Let me know if you'd like to have Project Report.
+
+---
