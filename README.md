@@ -152,12 +152,12 @@ Strong understanding of data modeling, authentication, and networked application
 
 ## 🙋‍♂️ Author
 
-**Devang Angchekar**  
+**Devang Angchekar and Amardeep Tukrul**  
 B.Sc. IT – St. Arnold's Degree College, University of Mumbai 
 
-✉️ devangangchekar2004@gmail.com
+✉️ devangangchekar2004@gmail.com / amardeeptukrul28@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/devang-angchekar-3583a02b9/) | [GitHub](https://github.com/Devang-09/) | [Instagram](https://www.instagram.com/_https_devang_)
+[LinkedIn](https://www.linkedin.com/in/devang-angchekar-3583a02b9/)(https://www.linkedin.com/in/amardeep-tukrul) | [GitHub](https://github.com/Devang-09/) | [Instagram](https://www.instagram.com/_https_devang_)
 
 ---
 
